@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **NodeJS**
 
-- 💬 Preguntame sobre **HTML, CSS, Javascript, Angular and NodeJS**
+- 💬 Preguntame sobre **HTML, CSS, Javascript, Angular y NodeJS**
 
 - 📫 Como llegar a mi **luis.s.raider.3@gmail.com**
 

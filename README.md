@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Luis Reyes</h1>
-<h3 align="center">Frontend Developer apasionado</h3>
+<h3 align="center">Full Stack Developer apasionado</h3>
 
 - 🌱 Actualmente estoy aprendiendo **NodeJS**
 

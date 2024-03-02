@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Luis Reyes</h1>
 <h3 align="center">Full Stack Developer apasionado</h3>
 
-- 🌱 Actualmente estoy aprendiendo **NodeJS**
+- 🌱 Actualmente estoy aprendiendo **NodeJS con Clean Architecture**
 
-- 💬 Preguntame sobre **HTML, CSS, Javascript, Angular y NodeJS**
+- 💬 Preguntame sobre **HTML, CSS, Javascript, Angular, NodeJS, Clean Architecture**
 
 - 📫 Como llegar a mi **luis.s.raider.3@gmail.com**
 

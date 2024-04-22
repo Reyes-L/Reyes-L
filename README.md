@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Luis Reyes</h1>
 <h3 align="center">Full Stack Developer apasionado</h3>
 
-- 🌱 Actualmente estoy aprendiendo **NodeJS con Clean Architecture**
+- 🌱 Actualmente estoy aprendiendo **Miscroservicios con NestJS**
 
 - 💬 Preguntame sobre **HTML, CSS, Javascript, Angular, NodeJS, Clean Architecture**
 
